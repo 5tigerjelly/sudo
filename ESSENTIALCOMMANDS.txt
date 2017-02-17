@@ -1,0 +1,4 @@
+ESSENTIAL COMMANDS
+	
+	about
+		More information about the team

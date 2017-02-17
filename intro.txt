@@ -1,0 +1,32 @@
+We are
+                  __            
+                 /\ \           
+  ____  __  __   \_\ \    ___   
+ /',__\/\ \/\ \  /'_` \  / __`\ 
+/\__, `\ \ \_\ \/\ \L\ \/\ \L\ \
+\/\____/\ \____/\ \___,_\ \____/
+ \/___/  \/___/  \/__,_ /\/___/ 
+                                
+                                
+Students at the University of Washington, trying to help
+studetns learn about the technology field who are only
+learning about it.
+
+If you are interested, reach out to us at sudo@uw.edu.
+
+You can type 'sudo man' for more command information
+
+
+
+
+
+
+
+               _       
+              | |      
+ ___ _   _  __| | ___  
+/ __| | | |/ _` |/ _ \ 
+\__ \ |_| | (_| | (_) |
+|___/\__,_|\__,_|\___/ 
+
+http://www.mattboldt.com/demos/typed-js/
