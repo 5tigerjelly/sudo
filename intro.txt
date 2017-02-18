@@ -1,3 +1,5 @@
+user$ ^3000 sudo man ^500
+
 We are
                   __            
                  /\ \           
@@ -6,27 +8,17 @@ We are
 /\__, `\ \ \_\ \/\ \L\ \/\ \L\ \
 \/\____/\ \____/\ \___,_\ \____/
  \/___/  \/___/  \/__,_ /\/___/ 
-                                
-                                
-Students at the University of Washington, trying to help
-studetns learn about the technology field who are only
-learning about it.
-
-If you are interested, reach out to us at sudo@uw.edu.
-
-You can type 'sudo man' for more command information
 
 
+iSchool students at the University of Washington, trying to 
+help students learn about the technology field who have 
+interest in learning more.
 
 
+Currently, we pair prospective iSchool students with current
+students in the major. We provide help with technical projects,
+whether it is front-end or back-end related.
 
 
-
-               _       
-              | |      
- ___ _   _  __| | ___  
-/ __| | | |/ _` |/ _ \ 
-\__ \ |_| | (_| | (_) |
-|___/\__,_|\__,_|\___/ 
-
-http://www.mattboldt.com/demos/typed-js/
+We are planning to hold a hackaton in the 2018 Fall.
+If you are interested, reach out to us at sudo@uw.edu
