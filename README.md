@@ -2,11 +2,11 @@
 
 [Working website](http://5tigerjelly.com/sudo/index.html)
 
-###Dependency
+### Dependency
 [Typed.js](https://github.com/mattboldt/typed.js/)
 
 
-###Description
+### Description
 The website displays the following message in a command line feel way
 ```
 user$  sudo man 
